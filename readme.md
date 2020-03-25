@@ -1,6 +1,6 @@
 # Awesome Sitecore [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Sitecore-related projects on GitHub
+> A curated list of Sitecore-related projects on GitHub. Please contribute!
 
 ## Contents
 
@@ -41,6 +41,7 @@
 
 - [Glass.Mapper](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 - [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS
+- [Synthesis](https://github.com/blipson89/Synthesis) - an object mapping framework for Sitecore that enables developing more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings.
 
 ## Publishing
 
