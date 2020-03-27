@@ -45,9 +45,9 @@
 - [Workflows](#workflows)
 - [xConnect and xDB](#xconnect-and-xdb)
 
-> Please note, Awesome Sitecore list below only classifies and reviews useful GitHub repositories you may benefir from. 
+> Please note, **Awesome Sitecore** list only classifies and reviews useful GitHub repositories you may benefir from. 
 >
-> If you're looking for a more comprehensive list of arcticles, blog posts, videos and Q'n'As please refer to the [Sitecore Link](https://Sitecore.Link) knowledge base.
+> If you're looking for a more comprehensive list of arcticles, blog posts, videos and Q'n'A please refer to the [Sitecore Link](https://Sitecore.Link) knowledge base.
 
 
 ## Analytics
