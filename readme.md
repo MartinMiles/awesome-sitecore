@@ -39,7 +39,8 @@
 - [SPE (Sitecore PowerShell Extension)](#spe-sitecore-powershell-extension)
 - [SPEAK](#speak)
 - [SXA (Sitecore Experience Accelerator)](#sxa-sitecore-experience-accelerator)
-- [Testing](#testing) 
+- [Testing](#testing)
+- [Templates](#Templates)
 - [Universal Tracker](#universal-tracker)
 - [WebApi](#webapi) 
 - [Workflows](#workflows)
@@ -53,11 +54,16 @@
 ## Analytics
 
 - [SitecoreGoalDescription](https://github.com/islaytitans/SitecoreGoalDescription) - display the Goal Description in the Experience Profle 
+- [Sitecore Goal Conversion Demo](https://github.com/martinrayenglish/GoalConversions.Demo) - demonstrate how to obtain goals that were triggered during a visitor's interaction, after their session has ended, this data can be sent to an external system to be used helping marketers by informing them of what customer's and leads are doing on their website.
+- [Custom Timeline Eras](https://github.com/coreyasmith/sitecore-custom-timeline-eras) - demonstrates how to trigger outcomes and display custom outcomes as eras on the Experience Profile timeline in Sitecore.
 
 ## Audit and performance
 
 - [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) - collect detailed timing information for all your Sitecore MVC renderings and API calls.
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) - this repository contains a whole wealth of potential patches for the performance Improvements for the Sitecore platform to improve, most of which are running in production instances of Sitecore.
+- [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) - the module consists of 3 agents that will monitor each the Event Queue, Publish Queue and History tables to ensure that they don't exceed a set threshold.
+- [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG) - a Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS are both supported) that has the SitecoreUML Service for Sitecore
+- [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) - Sitecore started providing assembly list information for Sitecore releases starting at 8.2 Update 5. This project provides tools for validating Sitecore assembly lists, both against an installation and during the development process.
 
 ## Azure
 
@@ -68,6 +74,9 @@
 - [Sitecore Media Azure Blob Storage provider](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - allows to store Sitecore media library assets in the Azure Blob Storage account.
 - [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - allow Sitecore Media Library to store and serve from Cloud Storage.
 - [SitecoreCognitiveServices](https://github.com/smithc/SitecoreCognitiveServices) - SDK integrating Microsoft's Cognitive Services into Sitecore.
+- [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment. 
+- [SitecoreDiagnostics](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
+- [sitecore-application-insights-annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) - creates App Insinghts annotations.
 
 ## Cache
 
@@ -75,12 +84,17 @@
 - [Cache-Processing-Instance](https://github.com/ParTech/Cache-Processing-Instance) - a proof-of-concept for a dedicated HTML cache processing instance.
 - [ExperienceEditorCache](https://github.com/marek-musielak/Skillcore.ExperienceEditorCache) - a caching module which makes working with Sitecore Experience Editor more pleasant.
 - [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) - clear specific HTML Caches on local and remote instances from the Sitecore client.
+- [CacheCounters](https://github.com/matthewkenny/CacheCounters) - peport Sitecore cache size information to Windows performance counters.
+- [Sitecore Rules-Based Output Caching](https://github.com/zkniebel/Sitecore-Advanced-Output-Caching) - provides rules-based Sitecore output caching variance support, enabling the caching of personalized components and other components that require more complex cache variance logic.
 
 ## Commerce
 
 - [Reference Storefront](https://github.com/Sitecore/Reference-Storefront) - Sitecore Reference Storefront.
 - [Commerce Sample Plugins](https://github.com/Sitecore/SitecoreCommerce) - a sample code for Sitecore Commerce Plugins (targeted toward XC 9.0.3 and 9.1).
 - [HabitatHome Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - an example built using SXA on XP and XC following the Helix architecture principles.
+- [sitecore-commerce-configuration](https://github.com/richardszalay/sitecore-commerce-configuration) - tools for configuring and boostrapping Sitecore Commerce Engine configuration.
+- [Plumber for Sitecore Commerce](https://github.com/richardszalay/plumber-sc) - tool to view Sitecore Commerce Engine Configuration.
+- [Short Confirmation Codes](https://github.com/dsolovay/ShortConfirmationCodes) - provides six character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box.
 
 ## Configuration
 
@@ -105,16 +119,21 @@
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - a tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - a PowerShell scripting library to help with installing SolrCloud clusters on Windows. 
 - [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch) - common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema. 
+- [Sitecore Computed Search](https://github.com/martinrayenglish/Sitecore-Computed-Search) - an index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can by applied to these computed fields using search boosting so that content matching search terms can be promoted in search results.
+- [sitecore-azure-search-compat](https://github.com/richardszalay/sitecore-azure-search-compat) - compatibility patch for Sitecore + Azure Search.
 
 ## Data
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - used to import Database data and Sitecore content into Sitecore.
+- [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
 
 ## Demo
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) - demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 - [HabitatHome Demo](https://github.com/Sitecore/Sitecore.HabitatHome.Platform) - HabitatHome Demo and the tools and processes in it is a Sitecore solution example built SXA on Sitecore XP following the Helix architecture principles.
+- [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - a collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance etc.
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - demo assets with external contributors and partners.
+- [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - this repository is used to share Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 - [Sitecore.Demo.Group](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
 - [Sitecore User Group UK](https://github.com/steviemcg/scuguk) - an excellent demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
 
@@ -131,6 +150,10 @@
 - [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) - an environment specific styling (and text) on login screen and header ribbon for Sitecore.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) - prevents Sitecore users from bypassing insert options.
 - [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) - allows "scope to this" functionality a la Visual Studio on the Sitecore Content Editor tree.
+- [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) - a productivity improvement for Device Editor, showing datasource if set to that particular component and previewing that right from a pop-up click.
+- [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) - Content Editor gutters to indicate tested and personalized items.
+- [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) - validate an item can be moved to a new location based on insert options.
+- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) - provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
 
 ## Fields
 
@@ -141,7 +164,8 @@
 - [CustomFields](https://github.com/AlexanderDavyduk/CustomFields) - a selection of NameValueDropLists, NameValueDropListsField, NameValueDroplist, NameValueDroplistField, SortableMultilist, SortableMultilistField, TimeZonesDropList fields.
 - [YouTube Video Picker Field](https://github.com/pveller/BrainJocks.YouTubeVideoField) - fully workable solution for YouTube video picker field for Sitecore.
 - [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields) - adds new Checkbox, Droplist and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements.
-
+- [icon-selector-field](https://github.com/Wesley-Lomax/icon-selector-field) - custom Icon selector field for Sitecore.
+- [ImageSelector](https://github.com/markvanaalst/Sitecore.SharedSource.ImageSelector) - an image Selector field for Sitecore to allow selecting and previewing multiple images based on TreeListEx field.
 
 ## Forms
 
@@ -150,6 +174,13 @@
 ## JSS
 
 - [JSS](https://github.com/Sitecore/jss) - an official repo of Sitecore JavaScript Services.
+- [sugcon-2019-jss-examples](https://github.com/chaturangar/sugcon-2019-jss-examples) - sugcon 2019 jss examples.
+- [SitecoreQL](https://github.com/kmazzoni/SitecoreQL) - a GraphQL implementation for Sitecore, for example you can query against Sitecore's Content Search API.
+- [JSS React Starter Application](https://github.com/altola/sitecore-jss-react-basic) - please follow the primary JSS documentation at https://jss.sitecore.net for the latest documentation on JSS.
+- ['Hello World' Starter for Sitecore JSS Tech Preview 4](https://github.com/altola/sitecore-jss-react-starter) - a hello world starter for Sitecore JSS without GraphQL bits.
+- [Extensible JSON Renderings](https://github.com/coreyasmith/jss-extensible-json-renderings) - extending JSON renderings in Sitecore JavaScript Services.
+- [JavaScript Services Anti-Forgery Tokens](https://github.com/coreyasmith/jss-anti-forgery-tokens) - a sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
+- [How to GraphQL](https://github.com/kamsar/howtographql) - a fullstack tutorial website to learn all about GraphQL.
 
 ## Helix
 
@@ -160,14 +191,17 @@
 - [Helix frontend development example](https://github.com/LaubPlusCo/helix-frontend-example) - a simple frontend development setup for a Sitecore Helix solution.
 - [Helix Publishing Pipeline]() - allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - a demonstration of converting a custom Sitecore link provider from non-Helix to Helix.
+- [Elision](https://github.com/sitecore-elision) - an open source Sitecore accelerator.
 
 ## Icons
 
 - [Extra People Icons](https://github.com/jermdavis/ExtraPeopleIcons) - some extra "people" icons for your Sitecore instances.
+- [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - MSBuild extensions for building Sitecore icon zip archives and including them in the published website.
 
 ## Languages
 
 - [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - an item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports.
+- [Sitecore Item Versioner](https://github.com/aquasonic/SitecoreItemVersioner) - this module adds a new ribbon into the versions chunk of the Content Editor. With the new ribbon it is possible to initially create an item version in all configured languages.
 
 ## Logging
 
@@ -182,13 +216,16 @@
 
 ## Media
 
+- [Autocropper](https://github.com/zkniebel/Autocropper) -  automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites. 
 - [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - a Brightcove connector for Sitecore Media Framework.
 - [Youtube Integration module](https://github.com/ivansharamok/Youtube-Integration) - for those having a channel on YouTube and are looking at an easy way to show the videos on your site, the YouTube integration module might be what you are looking for. In the media library you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.
 - [Shrink](https://github.com/robhabraken/shrink) -  gives you insight in the usage of your media librarysimilar to a disk usage statistics viewer for your hard drives, also shows you which items are actually being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
+- [Dianoga](https://github.com/kamsar/Dianoga) - an automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 
 ## ORM
 
 - [Glass.Mapper](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
+- [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) - Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) wit a main goal is to make it easy for developers to query the Sitecore database using generated Template models.
 - [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS
 - [Sitecore.CodeGenerator](https://github.com/ParTech/sitecore.codegenerator) - enerate Glass Mapper interfaces using T4 templates without TDS.
 - [Synthesis](https://github.com/blipson89/Synthesis) - an object mapping framework for Sitecore that enables developing more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings.
@@ -197,6 +234,10 @@
 
 - [License Expiration Module 2.0](https://github.com/KayeeNL/Sitecore.License.Expiration.Module) - checks the expiration date of the Sitecore license, shows a Content Editor Warning message or/and sends an email to notify when the Sitecore license is about to expire.
 - [Sitecore.SharedSource.JohnWest](https://github.com/jammykam/Sitecore.SharedSource.JohnWest) - a collection of code samples of Sitecore protoypes from John West blog posts.
+- [BLAZOR + SITECORE](https://github.com/GoranHalvarsson/SitecoreBlazor) - allows you to run Sitecore app's client-side, also following the HELIX concept, the clean way.
+- [Sitecore.SampleMvc](https://github.com/coreyasmith/Sitecore.SampleMvc) - by default Sitecore comes with a sample site that is built on web forms and XSLT; this repository contains MVC versions of the code for the out-of-the-box Sitecore sample site.
+- [Sitecore TokenManager](https://github.com/JeffDarchuk/SCTokenManager) - a framework designed to allow any type of content to be dynamically injected into a RTE field.
+- [sxp-notifications](https://github.com/michaellwest/westco-sxp-notifications) - send browser notifications to users in Sitecore. 
 
 ## Packaging
 
@@ -207,6 +248,7 @@
 ## Pipelines
 
 - [Pipeline Performance Monitor](https://github.com/ParTech/Pipeline-Performance-Monitor) - simple solution for measuring the duration of Sitecore pipeline execution.
+- [Sitecore Processor Dependency Injection](https://github.com/coreyasmith/Sitecore.ProcessorDi) - a simple project to demonstrate dependency injection in Sitecore pipeline processors.
 
 ## Publishing
 
@@ -220,11 +262,13 @@
 - [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules) - provides conditions and actions for the rules engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.
 - [MenuItemRules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) - rules-based context item menu visibility.
 - [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) - adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.
+- [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - a pipeline processor for the uiGetMasters pipeline that allows you to organize your Insert Options Rules however you like in the content tree.
 
 ## Security
 
 - [Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) - shown on an exaple of SXA but they are truly Helix-generic.
 - [MasterKey](https://github.com/islaytitans/MasterKey) - a module for Unlocking Sitecore Items.
+- [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) - enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
 
 ## SEO
 
@@ -233,6 +277,7 @@
 - [Sitemap Generator](https://github.com/jermdavis/SitemapGenerator) - an example Sitecore / FakeDB / TDS / Cloud Build project for blog posts.
 - [Sitecore Solr](https://github.com/bigredmachine/sitecore-solr) - example code of how you could extend the Sitecore Solr provider.
 - [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) -  given module enables administrator or editors to manage URL rewrite rules from within the Sitecore client,  supporting rewriting of hostnames, relative URL's and absolute URL's.
+
 - [RedirectManager](https://github.com/AlexanderDavyduk/Sitecore-RedirectManager) - redirect manager for Sitecore.
 
 ## Serialization
@@ -240,6 +285,7 @@
 - [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) - an advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison. 
 - [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) - a utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
 - [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) -a framework for angularjs based microservice architecture operations.
+- [Rhino](https://github.com/kamsar/Rhino) - an experimental serialization data provider for Sitecore.
 
 ## Sitecore Host
 
@@ -257,6 +303,8 @@
 
 ## SXA (Sitecore Experience Accelerator)
 
+- [SXA Styleguide](https://github.com/markvanaalst/SXA.Styleguide) - an education site based on SXA that helps explaining the inner working and illustrating best practices.
+- [SXA.Styleguide.Frontend](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the seperate scriban templates.
 - [SXA.Foundation.Variants](https://github.com/MartinMiles/SXA.Foundation.Variants) - collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
 - [Sitecore Experience Accelerator index](https://github.com/alan-null/SXA.Index) - 
 - [SXA Reference](https://github.com/alan-null/XA.Reference) - an example Sitecore project build on top of Sitecore Experience Accelerator.
@@ -264,10 +312,16 @@
 - [SXA.HealthCheck](https://github.com/alan-null/SXA.HealthCheck) - a Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution.
 - [Global Field Validator](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) - an SXA module to validate fields at a site level rather than at the template field level.
 - [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) - Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.
+- [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore Experience Accelerator (SXA) extensions.
+- [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) - demonstration using the SXA CLI from within a Docker container with Node installed. 
 
 ## Testing
 
 - [Sitecore FakeDb](https://github.com/sshushliapin/Sitecore.FakeDb) - unit testing framework for Sitecore that enables creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
+
+## Templates
+
+- [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - this extension provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query.
 
 ## Universal Tracker
 
@@ -277,6 +331,7 @@
 
 - [Sitecore Endpoints](https://github.com/MartinMiles/Sitecore.Endpoints) - ready to pick-and-use samples of Sitecore Services Client and Sitecore WebApi implemented in a form Helix feature.
 - [Odata.SitecoreExample](https://github.com/ianjohngraham/Odata.SitecoreExample) - an example of a Sitecore oData Repository.
+- [Web API Session-Enabled Routes](https://github.com/coreyasmith/WebApiEnableSessionHandler) - Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.
 
 ## Workflows
 
