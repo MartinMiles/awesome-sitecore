@@ -53,7 +53,7 @@
 
 ## Analytics
 
-- [SitecoreGoalDescription](https://github.com/islaytitans/SitecoreGoalDescription) - display the Goal Description in the Experience Profle 
+- [Sitecore Goal Description](https://github.com/islaytitans/SitecoreGoalDescription) - display the Goal Description in the Experience Profile.
 - [Sitecore Goal Conversion Demo](https://github.com/martinrayenglish/GoalConversions.Demo) - demonstrate how to obtain goals that were triggered during a visitor's interaction, after their session has ended, this data can be sent to an external system to be used helping marketers by informing them of what customer's and leads are doing on their website.
 - [Custom Timeline Eras](https://github.com/coreyasmith/sitecore-custom-timeline-eras) - demonstrates how to trigger outcomes and display custom outcomes as eras on the Experience Profile timeline in Sitecore.
 
@@ -62,7 +62,7 @@
 - [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) - collect detailed timing information for all your Sitecore MVC renderings and API calls.
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) - this repository contains a whole wealth of potential patches for the performance Improvements for the Sitecore platform to improve, most of which are running in production instances of Sitecore.
 - [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) - the module consists of 3 agents that will monitor each the Event Queue, Publish Queue and History tables to ensure that they don't exceed a set threshold.
-- [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG) - a Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS are both supported) that has the SitecoreUML Service for Sitecore
+- [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG) - a Sitecore template architecture visualization and documentation tool from the SitecoreUML family. Leveraging the open-source APIs associated with StarUML (on which SitecoreUML is also based), SitecoreDXG provides support for generating template data model architecture diagrams and HTML documentation from any existing Sitecore instance (PaaS and non-PaaS are both supported) that has the SitecoreUML Service for Sitecore.
 - [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) - Sitecore started providing assembly list information for Sitecore releases starting at 8.2 Update 5. This project provides tools for validating Sitecore assembly lists, both against an installation and during the development process.
 
 ## Azure
@@ -115,7 +115,7 @@
 
 ## Content Search
 
-- [Sitecore-spatial-geojson-polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben’s coordinates return London).
+- [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - a tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - a PowerShell scripting library to help with installing SolrCloud clusters on Windows. 
 - [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch) - common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema. 
@@ -226,8 +226,8 @@
 
 - [Glass.Mapper](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 - [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) - Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) wit a main goal is to make it easy for developers to query the Sitecore database using generated Template models.
-- [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS
-- [Sitecore.CodeGenerator](https://github.com/ParTech/sitecore.codegenerator) - enerate Glass Mapper interfaces using T4 templates without TDS.
+- [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS.
+- [Sitecore.CodeGenerator](https://github.com/ParTech/sitecore.codegenerator) - generate Glass Mapper interfaces using T4 templates without TDS.
 - [Synthesis](https://github.com/blipson89/Synthesis) - an object mapping framework for Sitecore that enables developing more reliable and maintainable sites in less time than traditional Sitecore development. It is a strongly typed template object generator that is easily understandable for developers with either a Sitecore or traditional .NET background. It neatly integrates with Sitecore MVC (via the Synthesis.Mvc package) as a View rendering model provider and IoC dependency for controller renderings.
 
 ## Other
@@ -259,7 +259,7 @@
 ## Rules
 
 - [Page Rules](https://github.com/marek-musielak/Marek.Musielak.PageRules) - one may create any custom Sitecore rules for every page your visitors browse. User hasn't read T&C page and wants to see a contest page? Page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have translation ready for your page? With Sitecore rules engine only sky is the limit!
-- [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules) - provides conditions and actions for the rules engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.
+- [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules) - provides conditions and actions for the Rules Engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.
 - [MenuItemRules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) - rules-based context item menu visibility.
 - [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) - adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.
 - [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - a pipeline processor for the uiGetMasters pipeline that allows you to organize your Insert Options Rules however you like in the content tree.
@@ -303,10 +303,10 @@
 
 ## SXA (Sitecore Experience Accelerator)
 
+- [Sitecore Experience Accelerator index](https://github.com/alan-null/SXA.Index) - the whole set of dicumentation about SXA.
 - [SXA Styleguide](https://github.com/markvanaalst/SXA.Styleguide) - an education site based on SXA that helps explaining the inner working and illustrating best practices.
 - [SXA.Styleguide.Frontend](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the seperate scriban templates.
 - [SXA.Foundation.Variants](https://github.com/MartinMiles/SXA.Foundation.Variants) - collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
-- [Sitecore Experience Accelerator index](https://github.com/alan-null/SXA.Index) - 
 - [SXA Reference](https://github.com/alan-null/XA.Reference) - an example Sitecore project build on top of Sitecore Experience Accelerator.
 - [Sitecore Experience Accelerator index](https://github.com/alan-null/SXA.Index) - index contains the whole comprehensive information about SXA.
 - [SXA.HealthCheck](https://github.com/alan-null/SXA.HealthCheck) - a Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution.
@@ -340,7 +340,7 @@
 ## xConnect and xDB
 
 - [XConnectTutorial](https://github.com/jst-cyr/XConnectTutorial) - a tutorial repository based on the Sitecore documentation to walk users through common interactions with the xConnect APIs based on code from Martina Welander in the "Getting Started" tutorials and other great documentation.
-- [xConnectHelper](https://github.com/lowedown/xConnectHelper) - нour Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing
+- [xConnectHelper](https://github.com/lowedown/xConnectHelper) - a Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 - [XdbTracker](https://github.com/lowedown/XdbTracker) - API and js-function to allow client-side triggering of Sitecore events / goals and outcomes.
 - [Experience Generator](https://github.com/Sitecore/xGenerator) - a utility to generate "realistically looking" traffic for Sitecore sites with configurable patterns.
 - [xconnect-odata-proxy](https://github.com/ianjohngraham/xconnect-odata-proxy) - a simple node.js proxy to access xConnect's oData API in Sitecore 9.
