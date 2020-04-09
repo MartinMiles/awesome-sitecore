@@ -4,7 +4,7 @@
 
 > A curated list of Sitecore-related projects on GitHub. Please contribute!
 
-## Table of Contents
+## Contents
 
 - [Analytics](#analytics)
 - [Audit and performance](#audit-and-performance)
