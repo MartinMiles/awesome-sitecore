@@ -1,30 +1,26 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+* Use the following format: `[Package Name](Link URL) - Description`.
+* The link should be the name of the package or solution.
+* Preferably the link should be to the GitHub repository.
+* Keep descriptions concise, clear and simple.
+* New categories, or improvements to the existing ones are also welcome.
+* Run [awesome-lint](https://github.com/sindresorhus/awesome-lint) on your pull request and ensure it passes.
+* Removing outdated entries is also welcome, if you consider they lost relevancy and might be removed.
 
-## Adding an awesome list
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+## Quality standard
 
-## Creating your own awesome list
+To stay on the list, projects should follow these quality standards:
 
-To create your own list, check out the [instructions](create-list.md).
+* Generally useful to the community.
+* Actively maintained (even if that just means acknowledging open issues when they arise).
+* Proven as the solution addressing certain areas of using Sitecore platform: adding new features, fixing narrow places, maintenance, documentation, etc.
+* Minor PoCs are welcome only in case they bring unversal value for the platform, each submission will be carefully reviewed.
 
-## Adding something to an awesome list
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+## List maintenance
 
-You'll need a [GitHub account](https://github.com/join)!
+In order to stay actual, thos whole list of solutions will be quaterly monitored for relevancy.
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
-
-## Updating your Pull Request
-
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+Thank you to all the [contributors](https://github.com/martinmiles/awesome-sitecore/graphs/contributors), you are awesome and this list wouldn't be possible without you!
