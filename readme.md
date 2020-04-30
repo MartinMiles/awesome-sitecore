@@ -13,11 +13,11 @@
 - [Commerce](#commerce)
 - [Configuration](#configuration)
 - [Containers](#containers)
-- [Cotnent Hub](#content-hub)
-- [Cotnent Search](#content-Search)
+- [Content Hub](#content-hub)
+- [Content Search](#content-search)
 - [Data](#data)
 - [Demo](#demo)
-- [Deployment](#Deployment)
+- [Deployment](#deployment)
 - [Extending Content Editor](#extending-content-editor)
 - [Fields](#fields)
 - [Forms](#forms)
@@ -42,7 +42,7 @@
 - [SPEAK](#speak)
 - [SXA (Sitecore Experience Accelerator)](#sxa-sitecore-experience-accelerator)
 - [Testing](#testing)
-- [Templates](#Templates)
+- [Templates](#templates)
 - [Universal Tracker](#universal-tracker)
 - [WebApi](#webapi) 
 - [Workflows](#workflows)
@@ -190,7 +190,7 @@
 - [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from Project layer.
 - [Helix example Module & Solution templates](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 - [Helix frontend development example](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
-- [Helix Publishing Pipeline]() - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+- [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 - [Elision](https://github.com/sitecore-elision) - An open source Sitecore accelerator implementing Helix principles.
 
@@ -219,7 +219,7 @@
 
 - [Autocropper](https://github.com/zkniebel/Autocropper) - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
 - [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - Brightcove connector for Sitecore Media Framework.
-- [Youtube Integration module](https://github.com/ivansharamok/YouTube-Integration) - An easy way to show the videos from a channel at YouTube on your site, the YouTube integration module might be what you are looking for. In the media library you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.
+- [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration) - An easy way to show the videos from a channel at YouTube on your site, the YouTube integration module might be what you are looking for. In the media library you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.
 - [Shrink](https://github.com/robhabraken/shrink) - Gives an insight in the usage of your media librarysimilar to a disk usage statistics viewer for your hard drives, also shows you which items are actually being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
 - [Dianoga](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 
@@ -339,7 +339,7 @@
 ## xConnect and xDB
 
 - [XConnectTutorial](https://github.com/jst-cyr/XConnectTutorial) - A tutorial repository based on the Sitecore documentation to walk users through common interactions with the xConnect APIs based on code from Martina Welander in the "Getting Started" tutorials and other great documentation.
-- [XConnectHelper](https://github.com/lowedown/xConnectHelper) - a Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
+- [XConnectHelper](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 - [XdbTracker](https://github.com/lowedown/XdbTracker) - API and js-function to allow client-side triggering of Sitecore events / goals and outcomes.
 - [Experience Generator](https://github.com/Sitecore/xGenerator) - Generates "realistically looking" traffic for Sitecore sites with configurable patterns.
 - [xconnect-odata-proxy](https://github.com/ianjohngraham/xconnect-odata-proxy) - A simple Node.js proxy to access xConnect's oData API in Sitecore 9.
