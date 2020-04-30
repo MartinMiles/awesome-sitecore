@@ -21,6 +21,6 @@ To stay on the list, projects should follow these quality standards:
 
 ## List maintenance
 
-In order to stay actual, thos whole list of solutions will be quaterly monitored for relevancy.
+In order to stay in actual state, the whole list will be quaterly monitored for the relevancy.
 
 Thank you to all the [contributors](https://github.com/martinmiles/awesome-sitecore/graphs/contributors), you are awesome and this list wouldn't be possible without you!
