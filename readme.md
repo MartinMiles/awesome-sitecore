@@ -4,6 +4,10 @@
 
 > A curated list of Sitecore-related projects on GitHub. Please contribute!
 
+Sitecore is a digital platform that helps managing multiple websites from one place. It provides marketing tools that deliver information about customers from different devices (CRMs, tracking, POS, etc.). Sitecore allows creating content to be accessed via different channels (desktops, mobiles, APIs, social media, etc.). The platform is flexible by design, with numerous points of extensions, it can be deployed both on-premise and cloud. This below list classifies extensibility and deployment options for Sitecore developers they can benefit from.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
 ## Contents
 
 - [Analytics](#analytics)
