@@ -176,7 +176,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Forms
 
-- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to this forms creator.
+- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending mails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 
 ## JSS
 
