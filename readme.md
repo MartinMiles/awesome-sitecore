@@ -20,6 +20,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Content Hub](#content-hub)
 - [Content Search](#content-search)
 - [Data](#data)
+- [Data Exchange Framework](#data-exchange-framework)
 - [Demo](#demo)
 - [Deployment](#deployment)
 - [Extending Content Editor](#extending-content-editor)
@@ -136,6 +137,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - Used to import Database data and Sitecore content into Sitecore.
 - [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
+
+## Data Exchange Framework
+
+- [Gutters for Sitecore Data Exchange Framework](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - a collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
 
 ## Demo
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
