@@ -336,6 +336,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore Experience Accelerator (SXA) extensions.
 - [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) - Demonstrates using the SXA CLI from within a Docker container with Node installed.
 - [SXA Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) - Shows how to implemenmt response security headers on an exaple of SXA, but they are truly Helix-generic.
+- [SXA.Platform.Assemblies](https://github.com/konabos/SXA.Platform.Assemblies) - the lists of assemblies for SXA back to v1.6 and Powershell script to generate your own.
 
 ## Testing
 
