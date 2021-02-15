@@ -27,6 +27,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Fields](#fields)
 - [Forms](#forms)
 - [JSS](#jss)
+- [JAMstack](#jamstack)
 - [Helix](#helix) 
 - [Icons](#icons)
 - [Languages](#languages)
@@ -198,6 +199,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Extensible JSON Renderings](https://github.com/coreyasmith/jss-extensible-json-renderings) - Extending JSON renderings in Sitecore JavaScript Services.
 - [JavaScript Services Anti-Forgery Tokens](https://github.com/coreyasmith/jss-anti-forgery-tokens) - A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
 - [How to GraphQL](https://github.com/kamsar/howtographql) - A fullstack tutorial website to learn all about GraphQL.
+
+## JAMstack
+
+- [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
 
 ## Helix
 
