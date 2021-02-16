@@ -215,6 +215,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 - [Elision](https://github.com/sitecore-elision) - An open source Sitecore accelerator implementing Helix principles.
+- [Helixify](https://github.com/konabos/Konabos.Helixify) - The module designed to add instant Helix compatilbility to any Sitecore project.
 
 ## Icons
 
