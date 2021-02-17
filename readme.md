@@ -216,6 +216,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 - [Elision](https://github.com/sitecore-elision) - An open source Sitecore accelerator implementing Helix principles.
 - [Helixify](https://github.com/konabos/Konabos.Helixify) - The module designed to add instant Helix compatilbility to any Sitecore project.
+- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
 
 ## Icons
 
