@@ -348,6 +348,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Testing
 
 - [Sitecore FakeDb](https://github.com/sshushliapin/Sitecore.FakeDb) - A unit testing framework for Sitecore that enables creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
+- [Minq](https://github.com/valtech/minq) - Mockable, LINQable support for Sitecore and Sitecore MVC.
 
 ## Templates
 
