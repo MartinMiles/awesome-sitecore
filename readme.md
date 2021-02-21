@@ -203,6 +203,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## JAMstack
 
 - [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
+- [Uniform - Sitecore JSS - Next.js starter kit](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ## Helix
 
