@@ -173,6 +173,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) - Content Editor gutters to indicate tested and personalized items.
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) - Validate if an item can be moved to a new location based on insert options.
 - [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
+- [Sitecore Smart Commands](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
 
 ## Fields
 
