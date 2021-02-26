@@ -242,6 +242,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SitecoreRollingLogFileAppender](https://github.com/ivansharamok/SitecoreRollingLogFileAppender) - Log4net RollingLogFileAppender for Sitecore that allows to cap log files size.
 - [RabbitMQ.GEFL.Appender for Sitecore](https://github.com/asmagin/Sitecore.Logger.RabbitMQ.GelfAppender) - Implementation of RabbitMQ logger adapter for Sitecore.Logger.
 - [Logging To Logentries](https://github.com/jammykam/Sitecore.Logentries) - Configures your application to log intto Logentries (supports NLog, Log4net, Serilog, others).
+- [Namics.Foundation.Logger](https://github.com/merkle-open/Namics.Foundation.Logger) - Provides a set of static methods to use for logging with flexible options
 
 ## Maintenance
 
