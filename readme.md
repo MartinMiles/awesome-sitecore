@@ -174,6 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) - Validate if an item can be moved to a new location based on insert options.
 - [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
 - [Sitecore Smart Commands](https://github.com/AlenPelin/Sitecore-Smart-Commands) - A shared-source module that contains smart copy, duplicate and clone commands in Content Editor, that implement so much wanted functionality missing by default.
+- [CopyPageToVersions](https://github.com/merkle-open/SitecoreCopyPageToVersions) - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
 
 ## Fields
 
@@ -236,6 +237,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - An item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports.
 - [Sitecore Item Versioner](https://github.com/aquasonic/SitecoreItemVersioner) - This module adds a new ribbon into the versions chunk of the Content Editor.With the new ribbon it is possible to initially create an item version in all configured languages.
+- [CopyPageToVersions](https://github.com/merkle-open/SitecoreCopyPageToVersions) - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
 
 ## Logging
 
