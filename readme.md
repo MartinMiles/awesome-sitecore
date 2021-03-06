@@ -143,6 +143,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Data Exchange Framework
 
 - [Gutters for Sitecore Data Exchange Framework](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
+- [Data Exchange Framework Docs](https://github.com/Sitecore/Data-Exchange-Framework-Docs) - Sitecore Data Exchange Framework Documentation generated using Sphinx.
 
 ## Demo
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
