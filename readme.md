@@ -31,6 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [JAMstack](#jamstack)
 - [Helix](#helix) 
 - [Icons](#icons)
+- [Integration](#integration)
 - [Languages](#languages)
 - [Logging](#logging)
 - [Maintenance](#maintenance) 
@@ -233,6 +234,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Extra People Icons](https://github.com/jermdavis/ExtraPeopleIcons) - Some extra "people" icons for your Sitecore instances.
 - [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - MSBuild extensions for building Sitecore icon zip archives and including them in the published website.
+
+## Integration
+
+- [Integration Blueprints](https://github.com/Sitecore/Integration-Blueprints) - Sample code showing how to integrate Sitecore products with each other, and also with 3rd party systems.
 
 ## Languages
 
