@@ -215,6 +215,7 @@ The default "solr" service Sitecore provide can be replaced using these files.
 - [Extensible JSON Renderings](https://github.com/coreyasmith/jss-extensible-json-renderings) - Extending JSON renderings in Sitecore JavaScript Services.
 - [JavaScript Services Anti-Forgery Tokens](https://github.com/coreyasmith/jss-anti-forgery-tokens) - A sample repository to demonstrate how to use .NET anti-forgery tokens in Sitecore JavaScript Services with both MVC and Web API controllers using out-of-the-box anti-forgery token validators. The demo API is also completely mocked in disconnected mode to show how this functionality can work in both disconnected and connected modes.
 - [How to GraphQL](https://github.com/kamsar/howtographql) - A fullstack tutorial website to learn all about GraphQL.
+- [Headless Examples](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
 
 ## JAMstack
 
