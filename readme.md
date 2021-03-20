@@ -119,6 +119,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
 - [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 - [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - Sample compose files and associated configuration beyond those officially provided by Sitecore.
+- [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
 
 ## Content Hub
 
