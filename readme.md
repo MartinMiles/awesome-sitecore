@@ -297,6 +297,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Package Autoloader](https://github.com/JeffDarchuk/PackageAutoloader) - A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment. 
 - [Sitecore.Ship](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
 - [UpdatePackageInstaller](https://github.com/HedgehogDevelopment/UpdatePackageInstaller) - Installs update packages in Sitecore from the command line.
+- [Sitecore Package Deployer](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
 
 ## Pipelines
 
