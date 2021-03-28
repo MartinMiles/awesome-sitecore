@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) - Clear specific HTML Caches on local and remote instances from the Sitecore client.
 - [CacheCounters](https://github.com/matthewkenny/CacheCounters) - Report Sitecore cache size information into Windows performance counters.
 - [Sitecore Rules-Based Output Caching](https://github.com/zkniebel/Sitecore-Advanced-Output-Caching) - Provides rules-based Sitecore output caching variance support, enabling the caching of personalized components and other components that require more complex cache variance logic.
+- [Dictionary Flush Partial Cache](https://github.com/jbluemink/DictionaryFlushPartialCache) - Flashes Partial Html Cache on changes to Sitecore Dictionary items.
 
 ## Commerce
 
