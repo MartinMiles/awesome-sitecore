@@ -36,6 +36,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Logging](#logging)
 - [Maintenance](#maintenance) 
 - [Media](#media)
+- [NET Core Headless](#net-core-headless)
 - [ORM](#orm) 
 - [Other](#other)
 - [Packaging](#packaging)
@@ -277,6 +278,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration) - An easy way to show the videos from a channel at YouTube on your site, the YouTube integration module might be what you are looking for. In the media library you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.
 - [Shrink](https://github.com/robhabraken/shrink) - Gives an insight in the usage of your media librarysimilar to a disk usage statistics viewer for your hard drives, also shows you which items are actually being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
 - [Dianoga](https://github.com/kamsar/Dianoga) - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
+
+## NET Core Headless
+
+- [Netcore Auth](https://github.com/robearlam/sitecore-netcore-auth) - A repository showing how to enable authentication in a .NET Core headless Sitecore application.
 
 ## ORM
 
