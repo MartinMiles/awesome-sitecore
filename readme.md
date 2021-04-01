@@ -90,8 +90,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Cache
 
-- [CacheTuner](https://github.com/KayeeNL/CacheTuner) - The module is an implementation of the rules given in Sitecore Caching guide.
-- [Cache-Processing-Instance](https://github.com/ParTech/Cache-Processing-Instance) - A proof-of-concept for a dedicated HTML cache processing instance.
+- [Cache Tuner](https://github.com/KayeeNL/CacheTuner) - The module is an implementation of the rules given in Sitecore Caching guide.
+- [Caching Manager](https://github.com/jbluemink/SitecoreCachingManager) - A console for easy Sitecore 10 cache management.
+- [Cache Processing Instance](https://github.com/ParTech/Cache-Processing-Instance) - A proof-of-concept for a dedicated HTML cache processing instance.
 - [ExperienceEditorCache](https://github.com/marek-musielak/Skillcore.ExperienceEditorCache) - A caching module which makes working with Sitecore Experience Editor more pleasant.
 - [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) - Clear specific HTML Caches on local and remote instances from the Sitecore client.
 - [CacheCounters](https://github.com/matthewkenny/CacheCounters) - Report Sitecore cache size information into Windows performance counters.
