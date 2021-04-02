@@ -115,6 +115,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 - [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.*, including 'getting-started' XP0 container environment.
+- [Container Deployment](https://github.com/Sitecore/container-deployment) - Provides the examples on how to deploy Sitecore containers using various methods.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 - [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
