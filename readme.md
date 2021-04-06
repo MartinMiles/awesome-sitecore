@@ -349,6 +349,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Solr](https://github.com/bigredmachine/sitecore-solr) - An example code of how you could extend the Sitecore Solr provider.
 - [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
 - [RedirectManager](https://github.com/AlexanderDavyduk/Sitecore-RedirectManager) - A redirect manager for Sitecore.
+- [URL Rewrite](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
 ## Serialization
 
