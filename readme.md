@@ -126,6 +126,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - Sample compose files and associated configuration beyond those officially provided by Sitecore.
 - [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module.
 - [Containers & AKS](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) - Taking Sitecore 10 to the next level into Azure AKS.
+- [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 
 ## Content Hub
 
