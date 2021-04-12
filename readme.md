@@ -78,6 +78,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Azure
 
 - [ARM templates for Sitecore](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) - All currently available Azure Resource Manager templates for Sitecore.
+- [Sitecore Azure Scripts](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
 - [Sitecore Azure Content](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate a deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 - [Sitecore Advanced Azure Devops](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on azure with flexible and generic scripts (requires a valid powershell Azure session to be connected and available).
 - [Language Understanding (LUIS) Samples](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
@@ -85,8 +86,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
 - [SitecoreCognitiveServices](https://github.com/smithc/SitecoreCognitiveServices) - SDK integrating Microsoft's Cognitive Services into Sitecore.
 - [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
-- [SitecoreDiagnostics](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
-- [sitecore-application-insights-annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
+- [Sitecore Diagnostics](https://github.com/BasLijten/SitecoreDiagnostics) - Sitecore Diagnostics using Application Insights.
+- [Application Insights Annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) - Creates App Insinghts annotations.
 
 ## Cache
 
