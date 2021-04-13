@@ -365,8 +365,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Sitecore Host
 
-- [SitecoreHostQuickStart](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) - A basic set of templates to help you get started building your own Sitecore Host applications.
+- [Sitecore Host Quick Start](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) - A basic set of templates to help you get started building your own Sitecore Host applications.
 - [Hostbase](https://github.com/muso31/Hostbase) - Sitecore Host example solution which can be used as a starting point for Sitecore Host applications. Currently runs in the IdentityServer Host as a plugin, will be updated when standalone Sitecore Host applications become readily available.
+- [Sitecore Host Plugins](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 
 ## SPE (Sitecore PowerShell Extension)
 
