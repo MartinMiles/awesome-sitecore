@@ -414,6 +414,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Endpoints](https://github.com/MartinMiles/Sitecore.Endpoints) - Ready to pick-and-use samples of Sitecore Services Client and Sitecore WebApi implemented in a form Helix feature.
 - [Odata.SitecoreExample](https://github.com/ianjohngraham/Odata.SitecoreExample) - An example of a Sitecore oData Repository.
 - [Web API Session-Enabled Routes](https://github.com/coreyasmith/WebApiEnableSessionHandler) - Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.
+- [Sitecore Shared Source: Web API Client](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
 ## Workflows
 
