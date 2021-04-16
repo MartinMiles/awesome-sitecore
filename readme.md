@@ -372,6 +372,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## SPE (Sitecore PowerShell Extension)
 
+- [Sitecore PowerShell Book](https://github.com/SitecorePowerShell/Book) - Sitecore PowerShell Book with all the documentation.
 - [Sitecore PowerShell](https://github.com/SitecorePowerShell) - Sitecore PowerShell Initiative official GitHub.
 - [Sitecore.Utilities](https://github.com/alan-null/Sitecore.Utilities) - A set of small modules for Sitecore PowerShell Extensions.
 - [SPE Content Migrator](https://github.com/michaellwest/Spe-Content-Migrator) - Script used to migrate content between Sitecore instances using SPE.
