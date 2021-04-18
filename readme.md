@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Data Exchange Framework](#data-exchange-framework)
 - [Demo](#demo)
 - [Deployment](#deployment)
+- [Editing](#editing)
 - [Extending Content Editor](#extending-content-editor)
 - [Fields](#fields)
 - [Forms](#forms)
@@ -180,6 +181,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PostDeploySteps](https://github.com/jst-cyr/NonlinearPostDeploySteps) - Post deploy steps for use with TDS. 1) TDS Example project that triggers the post deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.
 - [Sitecore Devops with AppVeyor](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) - Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.
 - [Cake.Sitecore](https://github.com/asmagin/Cake.Sitecore) - Provides a set of pre-build [CAKE build] tasks to be used to simplify a configuration of CI/CD for Helix-based Sitecore projects.
+
+## Editing
+
+- [Sitecore Sweep](https://github.com/Kasaku/Sitecore.Sweep) - A simple extensible module for Sitecore for the automatic cleaning of HTML in Items.
 
 ## Extending Content Editor
 
