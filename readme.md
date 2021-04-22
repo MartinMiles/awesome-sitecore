@@ -111,6 +111,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Short Confirmation Codes](https://github.com/dsolovay/ShortConfirmationCodes) - Provides six character confirmation codes (configurable), randomly generated, and tracked in the commerce database to avoid conflicts, as shorter codes are easier to communicate over support calls and for some clients may be more convenient than the 25 character confirmations that are provided out of the box.
 - [Sitecore Commerce Engine Fedex plugin](https://github.com/XCentium/SC-Plugin-FedEx) - Allows the user to integrate Fedex as a Fulfillment Method for shipping.
 - [Sitecore Commerce Engine USPS plugin](https://github.com/XCentium/SC-Plugin-USPS) - Allows the user to integrate USPS as a Fulfillment Method for shipping.
+- [Sitecore Commerce Engine UPS Address Validation plugin](https://github.com/XCentium/SC-Plugin-UPS-Address-Validation) - Allows validating shipping address or billing address to make product delivery a good experience.
 
 ## Configuration
 
