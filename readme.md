@@ -334,6 +334,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Publishing
 
+- [Scheduled Publishing](https://github.com/HedgehogDevelopment/SCScheduledPublishing) - Gives the content editor the option to delay the publishing of an item for a future point in time.
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) - An enhanced standard publish dialog.
 - [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.
 - [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance. 
