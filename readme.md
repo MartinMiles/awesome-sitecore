@@ -183,6 +183,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields) - Adds new Checkbox, Droplist and Droplink field type to the Sitecore Content Editor which depending on the selected value will hide the proceeding sibling fields. All controls inherit from their equivalent Sitecore counterpart and add the required UI enhancements.
 - [icon-selector-field](https://github.com/Wesley-Lomax/icon-selector-field) - Custom Icon selector field for Sitecore.
 - [ImageSelector](https://github.com/markvanaalst/Sitecore.SharedSource.ImageSelector) - An image Selector field for Sitecore to allow selecting and previewing multiple images based on TreeListEx field.
+- [TinyMCE Rich Text Editor](https://github.com/Antonytm/Sitecore-TinyMCERTE) - A rich text editor field for Sitecore that allows usage of TinyMCE instead(or together with) Telerik.
 
 ## Forms
 
