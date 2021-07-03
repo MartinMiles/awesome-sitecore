@@ -315,7 +315,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Sitecore Host
 
-- [SitecoreHostQuickStart](https://github.com/sitecoreguild/SitecoreHostQuickStart/tree/develop) ![Stars](https://img.shields.io/github/stars/sitecoreguild/SitecoreHostQuickStart/tree/develop?style=plastic "Stars") ![Activity](https://img.shields.io/github/last-commit/sitecoreguild/SitecoreHostQuickStart/tree/develop?style=plastic "Last commit") - A basic set of templates to help you get started building your own Sitecore Host applications.
+- [SitecoreHostQuickStart](https://github.com/sitecoreguild/SitecoreHostQuickStart) ![Stars](https://img.shields.io/github/stars/sitecoreguild/SitecoreHostQuickStart?style=plastic "Stars") ![Activity](https://img.shields.io/github/last-commit/sitecoreguild/SitecoreHostQuickStart?style=plastic "Last commit") - A basic set of templates to help you get started building your own Sitecore Host applications.
 - [Hostbase](https://github.com/muso31/Hostbase) ![Stars](https://img.shields.io/github/stars/muso31/Hostbase?style=plastic "Stars") ![Activity](https://img.shields.io/github/last-commit/muso31/Hostbase?style=plastic "Last commit") - Sitecore Host example solution which can be used as a starting point for Sitecore Host applications. Currently runs in the IdentityServer Host as a plugin, will be updated when standalone Sitecore Host applications become readily available.
 
 ## SPE (Sitecore PowerShell Extension)
