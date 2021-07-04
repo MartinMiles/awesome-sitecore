@@ -6,8 +6,8 @@
 * Keep descriptions concise, clear and simple.
 * New categories, or improvements to the existing ones are also welcome.
 * Run [awesome-lint](https://github.com/sindresorhus/awesome-lint) on your pull request and ensure it passes.
+* Run `.\addBadges.ps1` before your pull request to add badges for each record.
 * Removing outdated entries is also welcome, if you consider they lost relevancy and might be removed.
-
 
 ## Quality standard
 
@@ -17,7 +17,6 @@ To stay on the list, projects should follow these quality standards:
 * Actively maintained (even if that just means acknowledging open issues when they arise).
 * Proven as the solution addressing certain areas of using Sitecore platform: adding new features, fixing narrow places, maintenance, documentation, etc.
 * Minor PoCs are welcome only in case they bring unversal value for the platform, each submission will be carefully reviewed.
-
 
 ## List maintenance
 
