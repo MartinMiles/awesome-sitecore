@@ -30,6 +30,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Frameworks](#frameworks)
 - [JSS](#jss)
 - [JAMstack](#jamstack)
+- [Headless](#headless)
 - [Helix](#helix) 
 - [Icons](#icons)
 - [Integration](#integration)
@@ -133,6 +134,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Containers & AKS](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) - Taking Sitecore 10 to the next level into Azure AKS.
 - [PaaS to AKS](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 - [Sitecore Deployment on Kubernetes Example](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
+- [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto creation of a Docker Asset Image for a given Sitecore module
 
 ## Content Hub
 
@@ -246,6 +248,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
 - [Uniform, JSS and Next.js starter kit](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS and Next.JS with content items and required configuration files, great to start a vanilla project with.
 - [Uniform, MVC and Next.js starter kit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC and Next.JS with content items and required configuration files, great to start a vanilla project with.
+
+## Headless
+
+- [Sample](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
+
 
 ## Helix
 
