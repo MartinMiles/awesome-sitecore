@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Data Exchange Framework](#data-exchange-framework)
 - [Demo](#demo)
 - [Deployment](#deployment)
+- [Edge](#edge)
 - [Editing](#editing)
 - [Extending Content Editor](#extending-content-editor)
 - [Fields](#fields)
@@ -144,6 +145,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronised using the xml format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
 - [Starter Kit for Content Hub with Next.js and GraphQL](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
 - [Focal point cropping](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
+- [VS Solution Example for Content Hub](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
 
 ## Content Search
 
@@ -186,6 +188,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [PostDeploySteps](https://github.com/jst-cyr/NonlinearPostDeploySteps) - Post deploy steps for use with TDS. 1) TDS Example project that triggers the post deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.
 - [Sitecore Devops with AppVeyor](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) - Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.
 - [Cake.Sitecore](https://github.com/asmagin/Cake.Sitecore) - Provides a set of pre-build [CAKE build] tasks to be used to simplify a configuration of CI/CD for Helix-based Sitecore projects.
+
+## Edge
+
+- [Sitecore Demo Edge](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
 
 ## Editing
 
