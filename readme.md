@@ -55,6 +55,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SXA (Sitecore Experience Accelerator)](#sxa-sitecore-experience-accelerator)
 - [Testing](#testing)
 - [Templates](#templates)
+- [Tooling](#tooling)
 - [Universal Tracker](#universal-tracker)
 - [WebApi](#webapi) 
 - [Workflows](#workflows)
@@ -373,6 +374,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
 - [Security Rights Reporting](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
+- [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
 
 ## SEO
 
@@ -434,6 +436,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Templates
 
 - [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - Provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query.
+
+## Tooling
+
+- [Terminal DevEx Improvements](https://github.com/Sitecore/Windows-Terminal-DevEx-improvements) - A Sitecore branded Windows Termial and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements.
 
 ## Universal Tracker
 
