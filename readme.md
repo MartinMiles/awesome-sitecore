@@ -454,6 +454,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Odata.SitecoreExample](https://github.com/ianjohngraham/Odata.SitecoreExample) - An example of a Sitecore oData Repository.
 - [Web API Session-Enabled Routes](https://github.com/coreyasmith/WebApiEnableSessionHandler) - Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.
 - [Sitecore Shared Source: Web API Client](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
+- [Sitecore Services Client Publish](https://github.com/peplau/SscPublish) - A Web API method to securely trigger a Sitecore publish of an item or tree.
 
 ## Workflows
 
@@ -473,4 +474,5 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Next.js Styleguide for XM Cloud](https://github.com/KayeeNL/XmCloudNextJsJssStyleguide) - A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.
 - [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featurin XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
+- [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head-staging) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
 - [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
