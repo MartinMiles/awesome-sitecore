@@ -36,6 +36,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Helix](#helix) 
 - [Icons](#icons)
 - [Integration](#integration)
+- [Item Resource Files](#item-resource-files)
 - [Languages](#languages)
 - [Logging](#logging)
 - [Maintenance](#maintenance) 
@@ -295,6 +296,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Integration
 
 - [Integration Blueprints](https://github.com/Sitecore/Integration-Blueprints) - Sample code showing how to integrate Sitecore products with each other, and also with 3rd party systems.
+
+## Item Resource Files
+
+- [Sitecore IAR Management](https://github.com/GAAOPS/Sitecore.IAR.Management) - PowerShell script for managing Item as resources.
+- [Sitecore Item as Resource Explorer](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - WPF application which allows you to browse the Sitecore static databases files (.dat)
 
 ## Languages
 
