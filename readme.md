@@ -14,6 +14,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Audit and performance](#audit-and-performance)
 - [Azure](#azure)
 - [Cache](#cache)
+- [CDP](#cdp)
 - [Commerce](#commerce)
 - [Configuration](#configuration)
 - [Containers](#containers)
