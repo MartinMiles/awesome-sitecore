@@ -285,7 +285,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Headless
 
 - [Sample](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
-
+- [Angular JSS starter kit for XM Cloud](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
 
 ## Helix
 
