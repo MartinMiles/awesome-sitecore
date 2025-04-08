@@ -50,6 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Pipelines](#pipelines)
 - [Publishing](#publishing)
 - [Rules](#rules)
+- [SDK](#sdk)
 - [Security](#security) 
 - [SEO](#seo) 
 - [Serialization](#serialization) 
@@ -269,7 +270,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## JSS
 
-- [JSS](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 - [sugcon-2019-jss-examples](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 - [SitecoreQL](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 - [JSS React Starter Application](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at https://jss.sitecore.net for the latest documentation on JSS.
@@ -390,13 +390,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Rules
 
-- [Page Rules](https://github.com/marek-musielak/Marek.Musielak.PageRules) - Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T&C page and wants to see a contest page? Page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!
+- [Page Rules](https://github.com/marek-musielak/Marek.Musielak.PageRules) - Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T&C page and wants to see a contest page? The page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!
 - [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules) - Provides conditions and actions for the Rules Engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.
 - [MenuItemRules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) - Rules-based context item menu visibility.
 - [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) - Adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.
 - [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - A pipeline processor for the uiGetMasters pipeline that allows you to organize your Insert Options Rules however you like in the content tree.
 - [Conditional Placeholder Settings](https://github.com/matthewkenny/ConditionalPlaceholderSettings) - A module to allow Sitecore Rules Engine to support the existing placeholder settings functionality coming with Sitecore.
 - [Sitecore Adaptive Rules](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
+
+## SDK
+- [JSS](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services SDK.
+- [Content SDK](https://github.com/Sitecore/content-sdk) - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+- [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
 ## Security
 
