@@ -186,6 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - Used to import Database data and Sitecore content into Sitecore.
 - [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
+- [Content Export/Import Tool](https://github.com/estockwell-alpert/ContentExportTool) - Author-friendly tool for exporting and importing (create or modify) content in bulk using CSVs, as well as audits of renderings, rendering parameters, personalization, etc. 
 
 ## Data Exchange Framework
 
