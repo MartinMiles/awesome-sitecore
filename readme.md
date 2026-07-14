@@ -366,6 +366,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## ORM
 
+- [Axlis.ORM](https://github.com/marioarce/Axlis) - Axlis ORM is a strongly-typed Sitecore Headless GraphQL ORM for .NET 8 — bring Synthesis-style item models to the Headless world with zero third-party GraphQL dependencies.
 - [Glass.Mapper](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 - [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) - Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) with a main goal is to make it easy for developers to query the Sitecore database using generated Template models.
 - [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS.
